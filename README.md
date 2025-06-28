@@ -38,8 +38,8 @@ Convertirme en un **Analista de Datos Junior**, donde pueda aplicar mis habilida
 
 ## 📫 ¿Hablamos?
 
-- LinkedIn: linkedin.com/in/dacaste/
-- GitHub: github.com/DacasteDev
+- LinkedIn: [linkedin.com/in/dacaste/](linkedin.com/in/dacaste/)
+- GitHub: [github.com/DacasteDev](github.com/DacasteDev)
 - Email: dscastellanos.sanchez@gmail.com
 
 Gracias por visitar mi perfil 🚀
