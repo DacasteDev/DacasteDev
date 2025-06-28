@@ -26,7 +26,6 @@ Tecnólogo en Análisis y Desarrollo de Software con especial interés en el mun
 ## 📚 Formación
 
 **Tecnólogo en Análisis y Desarrollo de Software**  
-[Nombre de la institución] – [Año de graduación]
 
 ---
 
