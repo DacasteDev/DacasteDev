@@ -19,7 +19,7 @@ Tecnólogo en Análisis y Desarrollo de Software con especial interés en el mun
 - **Bases de datos:** PostgreSQL, MySQL
 - **Análisis de datos:** pandas, Excel
 - **Visualización:** Power BI (en proceso)
-- **Otros:** Git, Jupyter Notebooks
+- **Otros:** Git, GitHub Jupyter Notebooks
 
 ---
 
